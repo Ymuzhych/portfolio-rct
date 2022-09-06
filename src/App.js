@@ -9,18 +9,6 @@ import AboutMe from './components/AboutMe';
 function App() {
   return (
     <>
-     {/* {/* <Particles 
-    params={{
-      particles: {
-        number: {
-          value: 30,
-          density: {
-            enable: true, 
-            value_area: 900
-          }
-        }
-      }
-    }} */}
     <Navbar />
     <Header />
     <AboutMe />
