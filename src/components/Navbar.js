@@ -22,11 +22,11 @@ const Navbar = () => {
       <li className="nav-item ml-auto">
         <a className="nav-link" href="#">About Me</a>
       </li>
-      <li className="nav-item ml-auto">
+      {/* <li className="nav-item ml-auto">
         <a className="nav-link" href="#">Services</a>
-      </li>
+      </li> */}
       <li className="nav-item ml-auto">
-        <a className="nav-link" href="#">My Work</a>
+        <a className="nav-link" href="#">Experiance</a>
       </li>
       <li className="nav-item ml-auto">
         <a className="nav-link" href="#">Portfolio</a>
