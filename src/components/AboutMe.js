@@ -12,8 +12,9 @@ const AboutMe = () => {
             </div>
             <div className='col-lg-6 col-xm-12'>
                 <h1 className='about-heading' >About Me</h1>
-                <p>Hello! I am Yuliia. I recently earned a certificate in full stack development from the University of Texas bootcamp.
-I have been developing websites for over 6 months. I am Full-Stack Web Developer. Technologies I use is MERN (MongoDB, Express, ReactJs and NodeJs).
+                <p>Hello! I am Yuliia. Front-end web developer with ability to learn and collaborate in rapidly changing environments and compositions. Recently earned a certificate in full stack development from the University Coding, with newly developed skills in JavaScript, CSS, React.js, and responsive web
+design. Eager to tackle web development/design challenges to achieve lasting impacts on user experience.
+
 </p>
             </div>
         </div>
