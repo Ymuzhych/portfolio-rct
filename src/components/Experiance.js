@@ -11,7 +11,7 @@ const Experience = () => {
                   <div className="marker"></div>
                   <div className="timeline-content">
                       <h3>2020-current</h3>
-                      <h4>Process Technician</h4>
+                      <h4>Process Specialist</h4>
                       <h5>Samsung</h5>
                       <h6>Austin, TX</h6>
                       <p>Responsible for change point management and verification, monitoring and maintaining test wafer inventory, responding to statistical process control interlocks on product and non-product, assisting the engineering team with tests, dispositioning abnormal material, safely recovering product during equipment faults, and interfacing with the manufacturing operators.</p>
@@ -22,7 +22,7 @@ const Experience = () => {
                   <div className="marker"></div>
                   <div className="timeline-content">
                       <h3>2018-2020</h3>
-                      <h4>Qual Technician</h4>
+                      <h4>Quality Specialist</h4>
                       <h5>Infineon Technologies AG</h5>
                       <h6>Austin, TX</h6>
                       <p>• Worked in a cleanroom environment
